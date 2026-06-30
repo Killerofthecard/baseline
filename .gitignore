@@ -1,0 +1,18 @@
+# Environment variables
+.env
+
+# Docker
+.dockerignore
+Dockerfile.eval
+
+# Python virtual environment
+.venv/
+
+# Python cache
+__pycache__/
+*.py[cod]
+*$py.class
+
+# Editor settings
+.vscode/
+.idea/

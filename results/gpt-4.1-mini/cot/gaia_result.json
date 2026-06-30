@@ -1,0 +1,14 @@
+{
+  "metadata": {
+    "benchmark": "gaia",
+    "baseline": "cot",
+    "model": "gpt-4.1-mini",
+    "num_cases": 5,
+    "correct": 0,
+    "accuracy": 0.0,
+    "start_time": "2026-06-29T20:06:57.175211",
+    "end_time": "2026-06-29T20:06:57.175211",
+    "runtime_seconds": 0.0
+  },
+  "results": []
+}
